@@ -3,7 +3,7 @@ import java.io.*;
 /**
  * this is the main class of the pogram where everything is being called and run.
  * 
- * @author Harsh and Dhruv 
+ * @author Harsh
  * @version 3.1.0
  */
 public class Game extends World
