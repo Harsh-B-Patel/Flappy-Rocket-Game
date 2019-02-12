@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ShareClass
+comment0.text=\r\n\ A\ class\ which\ acts\ as\ sub\ class\ of\ actor\r\n\ has\ all\ the\ actor\ classes\ as\ subclesses\r\n\ \r\n\ @author\ (Harsh\ and\ dhruv)\ \r\n\ @version\ 3.1.0\r\n
+comment1.params=
+comment1.target=void\ GroundAct()
+comment1.text=\r\n\ This\ method\ sets\ the\ location\ of\ the\ ground.\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

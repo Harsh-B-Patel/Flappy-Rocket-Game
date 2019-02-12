@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ this\ is\ the\ main\ class\ of\ the\ pogram\ where\ everything\ is\ being\ called\ and\ run.\r\n\ \r\n\ @author\ Harsh\ and\ Dhruv\ \r\n\ @version\ 3.1.0\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Game.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \ Act\ -\ do\ whatever\ the\ game\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ this\ method\ will\ execute\ act\ for\ game.\r\n
+comment3.params=
+comment3.target=void\ CreateGround()
+comment3.text=\r\n\ this\ method\ is\ used\ to\ create\ ground.\r\n\ it\ also\ loops\ the\ image\ as\ it\ ends.\r\n\r\n
+comment4.params=
+comment4.target=void\ CreatePipe()
+comment4.text=\r\n\ this\ method\ is\ used\ to\ create\ pipe.\r\n\ it\ also\ loops\ both\ of\ the\ images\ as\ it\ ends.\r\n
+comment5.params=
+comment5.target=Score\ getScore()
+comment5.text=\r\n\ this\ method\ gets\ the\ score\ of\ the\ game.\r\n
+comment6.params=score
+comment6.target=int\ Recursion(int)
+comment6.text=\r\n\ this\ method\ is\ responsible\ for\ recurssion\r\n\ it\ takes\ in\ the\ score\ and\ returns\ an\ number\ sccording\ to\ fibinoci\ sequence.\r\n\ @return\ a\r\n\ @Param\ score\r\n
+numComments=7

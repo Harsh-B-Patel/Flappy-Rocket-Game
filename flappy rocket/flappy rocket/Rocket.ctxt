@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\r\n\ this\ class\ is\ the\ clss\ that\ makes\ the\ rocket.\r\n\ here\ it\ defines\ its\ controls,\ its\ reactions\ to\ obstructions,\ and\ how\ it\ moves/works\r\n\ \r\n\ @author\ (harsh)\ \r\n\ @version\ (3.1.0)\r\n
+comment1.params=
+comment1.target=void\ Movement()
+comment1.text=\r\n\ the\ method\ Movement\ is\ used\ to\ define\ how\ the\ rocket\ would\ move\r\n
+comment2.params=
+comment2.target=void\ GravityFactorApplier()
+comment2.text=\r\n\ applies\ gravity\ to\ rocket\ to\ allow\ it\ to\ fall\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ rocket\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ this\ method\ will\ execute\ act\ for\ rocket.\r\n
+comment4.params=
+comment4.target=void\ Rotation()
+comment4.text=\r\n\ this\ method\ will\ rotate\ the\ rocket\ according\ to\ its\ speed.\r\n
+comment5.params=
+comment5.target=void\ ChecksCollision()
+comment5.text=\r\n\ this\ method\ will\ check\ if\ collison\ takes\ place\ with\ ground\ and\ pipe\ \r\n
+numComments=6
